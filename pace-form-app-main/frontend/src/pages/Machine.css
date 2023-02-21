@@ -1,0 +1,15 @@
+.group-row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.group-row button{
+    display: block;
+    width: 100%;
+}
+
+
+.group-row input{
+     width: 100%;
+}

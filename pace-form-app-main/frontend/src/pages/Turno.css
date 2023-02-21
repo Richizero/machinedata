@@ -1,0 +1,13 @@
+.turn-form {
+    padding-bottom: 100px;
+}
+
+.group-row input{
+    min-width:93%;
+    height: 40px;
+    border-radius: 8px;
+}
+
+#formSection input{
+    margin-bottom: 20px;
+}
